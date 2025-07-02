@@ -1,11 +1,17 @@
 # ☀️ IoT Solar Tracker · Undergraduate Research Project
 
 <p align="center">
-  <img src="docs/img/solar_tracker_render.png" width="55%" alt="3-D render of the single-axis tracker">
+  <img src="docs/img/3D_Model.jpg" width="25%" alt="3-D render of the single-axis tracker">
+  <img src="docs/img/Lego_Solar_Tracker.jpg" width="25%" alt="Solar Tracker With Lego">
+  <img src="docs/img/Off_Grid.jpg" width="25%" alt="System_Off_Grid">
 </p>
 
 🏆 **Award:** *Best Computer-Science Undergraduate Research*  
-33rd PUC-SP Scientific Initiation Meeting (2024) – certificate available in the repo
+33rd PUC-SP Scientific Initiation Meeting (2024)
+
+<p align="center">
+  <img src="docs/certificate/Melhor_Pesquisa_IC_2024.jpg" width="40%" alt="Melhor Pesquisa">
+</p>
 
 This repository gathers the complete material of my 12-month research on an **autonomous solar-tracking system**: C++ firmware for ESP32, 3-D models, circuit schematics, test data and the final report approved by the PUC-SP PIBIC committee.
 
